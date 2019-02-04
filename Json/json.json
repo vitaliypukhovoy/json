@@ -1,0 +1,30 @@
+[
+	"error": {
+		"bool": {
+			"prop"{
+				"would": [
+
+					"match": {
+						cause: ""
+					}
+					"match": {
+						cause: ""
+					]
+				}
+			}
+		}
+	}
+	"warning": {
+		"bool": {
+			"would": {
+
+				"match": {
+					cause: ""
+				}
+				"match": {
+					cause: ""
+				}
+			}
+		}
+	}
+]
